@@ -1,1 +1,4 @@
 #DEsafio criando meu primeiro repositóerio no curso TQI Fullstack Developer
+
+#link para me Linkedindin
+https://www.linkedin.com/in/fabiano-barros-18862120b/
